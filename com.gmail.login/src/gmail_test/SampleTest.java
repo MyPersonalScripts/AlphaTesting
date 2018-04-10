@@ -33,7 +33,7 @@ public class SampleTest {
         if (actualPageTitle.equals(expectedPageTitle)) {
             System.out.println("Test case passed Opened Google Page...!");
         } else {
-            System.out.println("Test case Failed");
+            System.out.println("Test case Failed Unable to Open Page..!");
         }
  
     }
